@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cfrac", "Cfrac\Cfrac.vcxproj", "{6C304049-E7F2-4C74-BA9B-0519F035FCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Debug|x64.ActiveCfg = Debug|x64
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Debug|x64.Build.0 = Debug|x64
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Debug|x86.ActiveCfg = Debug|Win32
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Debug|x86.Build.0 = Debug|Win32
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Release|x64.ActiveCfg = Release|x64
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Release|x64.Build.0 = Release|x64
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Release|x86.ActiveCfg = Release|Win32
+		{6C304049-E7F2-4C74-BA9B-0519F035FCED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CABFA532-CFF7-4E73-85C6-3D04754F78E1}
+	EndGlobalSection
+EndGlobal
